@@ -1,9 +1,9 @@
 {
     "apiUrl" : "https://cinemart.uk/api/",
 
-	"pushUpdate" : "off",
+	"pushUpdate" : "on",
 
-	"newPackage" : "",
+	"newPackage" : "com.streameast.nflstreameastlive",
 	"NetworkAds" : "applovin"
 
 }
